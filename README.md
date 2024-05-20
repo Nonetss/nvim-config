@@ -1,3 +1,3 @@
 # nvim-config
 
-Mi configuración personal de nvim 
+Mi configuración personal de nvim 🐒
