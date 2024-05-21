@@ -42,3 +42,12 @@ opt.splitbelow = true -- split horizontal window to the bottom
 -- turn off swapfile
 opt.swapfile = false
 
+-- the encoding written to a file
+opt.fileencoding = "uft-8"
+
+-- Set undofile to enable persistent undo
+opt.undofile = true
+
+-- Scroll
+opt.scrolloff = 4
+opt.sidescrolloff = 4
