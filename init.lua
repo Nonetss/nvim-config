@@ -1,3 +1,3 @@
 require("nonete.core")
 require("nonete.lazy")
-require("nonete.config.spell")
+require("nonete.config")
