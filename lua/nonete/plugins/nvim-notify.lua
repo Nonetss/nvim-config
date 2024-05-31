@@ -21,5 +21,7 @@ return {
 		on_open = function(win)
 			vim.api.nvim_win_set_config(win, { zindex = 100 })
 		end,
+		render = "minimal",
+		top_down = false, -- This option ensures the notifications stack from the bottom up
 	},
 }
