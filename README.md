@@ -113,7 +113,7 @@ Mi configuración personal de nvim 🐒
 | `<Tab>`   | Insertar | Expandir o saltar en el fragmento  |
 | `<S-Tab>` | Insertar | Saltar hacia atrás en el fragmento |
 
-### Inglish:
+### English:
 
 #### General
 
