@@ -1,7 +1,17 @@
 require("noice").setup({
 	views = {
+		cmdline_popup = {
+			position = {
+				row = 5,
+				col = "50%",
+			},
+			size = {
+				width = 60,
+				height = "auto",
+			},
+		},
 		popupmenu = {
-			backend = "nui",
+			backend = "cmp",
 			relative = "editor",
 			position = {
 				row = 8,
