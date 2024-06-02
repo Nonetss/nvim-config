@@ -222,4 +222,5 @@ Mi configuración personal de nvim 🐒
 | `<Tab>`   | Insert  | Expand or jump in snippet |
 | `<S-Tab>` | Insert  | Jump backward in snippet  |
 
-Espero que esta tabla te sea útil.
+## Referencias:
+La configuración inicial esta basada en la configuración del siguiente video: [https://www.youtube.com/watch?v=6pAG3BHurdM&t=3583s]() 
