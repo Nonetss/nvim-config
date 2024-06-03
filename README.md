@@ -113,6 +113,13 @@ Mi configuración personal de nvim 🐒
 | `<Tab>`   | Insertar | Expandir o saltar en el fragmento  |
 | `<S-Tab>` | Insertar | Saltar hacia atrás en el fragmento |
 
+#### Ollama:
+
+| Keymap        | Modo(s) | Descripción                                                        |
+| ------------- | ------- | ------------------------------------------------------------------ |
+| `<leader> oo` | Normal  | Te deja elegir entre los diferentes promts que introducir a Ollama |
+| `<leader> oG` | Normal  | Hace que Ollama genere codigo                                      |
+
 ### English:
 
 #### General
@@ -222,5 +229,13 @@ Mi configuración personal de nvim 🐒
 | `<Tab>`   | Insert  | Expand or jump in snippet |
 | `<S-Tab>` | Insert  | Jump backward in snippet  |
 
+#### Ollama:
+
+| Keymap        | Mode(s) | Description                                                          |
+| ------------- | ------- | -------------------------------------------------------------------- |
+| `<leader> oo` | Normal  | Allows you to select from different prompts that introduce in Ollama |
+| `<leader> oG` | Normal  | Makes Ollama generate code                                           |
+
 ## Referencias:
-La configuración inicial esta basada en la configuración del siguiente video: [https://www.youtube.com/watch?v=6pAG3BHurdM&t=3583s]() 
+
+La configuración inicial esta basada en la configuración del siguiente video: [https://www.youtube.com/watch?v=6pAG3BHurdM&t=3583s]()
